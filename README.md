@@ -30,8 +30,7 @@ A 2-player Tic-Tac-Toe game where players take turns placing `X` and `O` on a 3x
 Clone the repo and open `tic-tac-toe.html` in your browser:
 
 \`\`\`bash
-git clone https://github.com/pavanharali018-dotcom/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/pavanharali018-dotcom/tic-tac-toe-game.git
 \`\`\`
 
 Then just open `tic-tac-toe.html` directly — no build steps or dependencies needed.
@@ -46,7 +45,11 @@ Then just open `tic-tac-toe.html` directly — no build steps or dependencies ne
 
 ## 📸 Preview
 
-*(Add a screenshot of the game board here)*
+![Tic Tac Toe Screenshot](assets/tic-tac-toe-page.png)
+![Tic Tac Toe Screenshot](assets/tic-tac-toe-page2.png)
+
+
+
 
 ## 🙋 Author
 
