@@ -1,6 +1,6 @@
 #outerbox{
     height:70vh;
-    background-color: #568487;
+    background-color: #9cdee2;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,7 +30,7 @@
 }
 .screen{
      text-align: center;
-     background-color: #568487;
+     background-color: #9cdee2;
      font-size: 2rem;
      
 }
