@@ -35,11 +35,11 @@
      
 }
 #reset-button{
-    padding: 5px;
-    margin-top: 10px;
+    padding: 8px;
+    margin-top: 15px;
     background-color: black;
     border-radius: 5px;
-    color: blanchedalmond;
+    color: rgb(247, 241, 233);
 
 }
 .msg-container{
