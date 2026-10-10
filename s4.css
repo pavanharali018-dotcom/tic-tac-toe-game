@@ -1,0 +1,17 @@
+#amazon{
+   
+   height:60px;
+    background-color: rgb(25, 2, 39);
+    color: white;
+    text-align: center;
+    line-height: 00;
+    padding:0px;
+    border-radius: 0;
+    border-width: 5px;
+    border-color:rgb(255, 255, 255);
+    border-style: solid;
+
+}
+#logo{
+    color:rgb(245, 165, 5)
+}

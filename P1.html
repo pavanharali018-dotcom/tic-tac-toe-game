@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Registration Form
+        
+    </title>
+    <link rel="stylesheet" href="P1.css">
+</head>
+<body>
+     <header>
+        <h1 class="hing">Student Registration Form</h1>
+     </header>
+     <main>
+        <section>
+            <form><fieldset><legend><b>Personal Information</b></legend>
+                <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                
+                <br><br>
+                <label for="email">Email: </label>
+                    <input type="email" id="email" name="email" required>
+               </fieldset>
+                <br><br>
+                <p>
+                <label for="password">Password:</label>
+                    <input type="password" id="password" name="password" required>
+              
+                <br><br>
+                <label  for="confirm_password">Confirm Password:</label>
+                    <input type="password" id="confirm_password" name="confirm_password" required></p>
+                
+                <br><br>
+                <div id="box">
+                    <label>Gender:</label>
+                    <label for="male">Male</label>
+                    <input type="radio" name="gender" id="male" value="Male">
+                    <label for="female">Female</label>
+                    <input type="radio" name="gender" id="female" value="Female">
+                </div>
+
+                 <br><br>
+                 <div id="skills">
+                 <h3 class="hing">Skills:</h3><div>
+                     <label>
+                    <input type="checkbox" class="text" name="Skills" value="HTML">HTML </label><br> 
+                    <label><input type="checkbox" name="Skills" value="CSS" >CSS</label> <br>
+                    <label><input type="checkbox" name="Skills" value="JavaScript">JavaScript</label> <br>
+                     </div>
+
+
+
+                </div>
+                    <br><br>    
+                   <h3 class="hing">Course: </h3>
+                   <div>
+                    <label for="course"></label>
+                    <select name="course" selected id="course">
+                        <option value="" name="course" >Select Course</option>
+                        <option value="eee">EEE</option>
+                        <option value="ece">ECE</option>
+                        <option value="bba">BBA</option>
+                        <option value="ai">AI</option>
+                    </select>
+                   </div>
+                   <br>
+                   <div >
+                    <label for="year"></label>
+                    <select name="year" selected id="year">
+                        <option value="" >Select Year</option>
+                        <option value="1">1st Year</option>
+                        <option value="2">2nd Year</option>
+                        <option value="3">3rd Year</option>
+                        <option value="4">4th Year</option>
+                    </select>
+                   </div>
+                   <br>
+                   <label for="feedback">Feedback:</label>
+                   <br>
+                   <textarea id="feedback"
+                   name="feedback"
+                   rows="4"
+                   cols="10"
+                   placeholder="Enter your feedback here...">
+
+                   </textarea>
+                     <br><br>
+                    <button type="submit" value="Register">Register</button><br><br>
+                     <!-- <div id="amazon">
+                <a id="logo" href="https://www.amazon.in/ref=nav_logo" target="Amazon.in">Amazon</a>
+                 <a > Account </a>
+                 <a> My Cart</a>
+                 <a>Contact Us</a>
+                
+                <label for="search"></label>
+                <input type="text" id="search" name="search" placeholder="Search Amazon.in">
+                <button  type="submit" value="Search" id="search-btn">Search</button> -->
+
+            </div>
+            </form> <br><br>
+            
+          
+           
+        </section>
+        <div id="boxx">
+            Hurry up!!
+            
+        </div>
+     </main>
+     
+      
+    
+    
+    </div>
+</body>
+</html>
