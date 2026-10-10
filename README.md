@@ -1,32 +1,59 @@
-# Hey, I'm Pavan 👋
+﻿# 🎮 Tic-Tac-Toe Game
 
-🎓 B.Tech Computer Science Engineering Student  
-💻 Interested in Software Development, AI/ML, and Open Source.
+A simple, interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
-## 🚀 Currently Learning
-- C++ and Data Structures & Algorithms
-- JavaScript and Node.js
-- Python and AI/ML
-- Backend Development and APIs
+## 📌 Project Overview
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,git,github,vscode" />
-</p>
+This project is a browser-based version of the classic Tic-Tac-Toe game, where two players take turns marking spaces on a 3×3 grid with X and O. The objective is to get three marks in a row, column, or diagonal to win the game.
 
-## 📌 Featured Projects
-- **GitHub Profile Explorer** — Explore GitHub users using the GitHub API.
-- **Amazon Clone** — A frontend project built using HTML and CSS.
-- **JanSeva 2.0** — Working on an AI-powered public-service assistance project.
+The game uses JavaScript to manage player turns, check winning combinations, detect draws, and reset the board. HTML provides the game structure, while CSS styles the board and user interface.
 
-## 📊 GitHub Contributions
+This project helped me practice DOM manipulation, event handling, conditional logic, and interactive web development.
 
-![Contribution Heatmap](./assets/contribution-heatmap.svg)
+## 🎯 Features
 
-## 📈 Contribution Activity
+- Two-player gameplay
+- Interactive 3×3 game board
+- Automatic winner detection
+- Draw detection
+- Reset Game functionality
+- New Game option after a win
 
-![Contribution Graph](./assets/contribution-graph.svg)
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 🚀 How to Run
+
+1. Clone or download this repository.
+2. Open `tic-tac-toe.html` in your browser.
+3. Start playing!
+
+No additional installation is required.
+
+## 📂 Project Structure
+
+```text
+tic-tac-toe-game/
+├── tic-tac-toe.html
+├── tic-tac-toe.css
+├── tic-tac-toe.js
+├── README.md
+└── assets/
+    ├── tic-tac-toe-page.png
+    └── tic-tac-toe-page2.png
+```
+
+## 📸 Screenshots
+
+### Gameplay
+
+![Tic-Tac-Toe Gameplay](./assets/tic-tac-toe-page.png)
+
+![Tic-Tac-Toe Gameplay 2](./assets/tic-tac-toe-page2.png)
 
 ---
 
-⭐ *Learning, building, and improving every day.*
+Made with ❤️ using HTML, CSS, and JavaScript.
